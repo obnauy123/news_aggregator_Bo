@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Topics"
+        android:title="Topics">
+        <menu android:id="@+id/Topics_menu"/>
+    </item>
+    <item
+        android:id="@+id/Language"
+        android:title="Language">
+        <menu android:id="@+id/Language_menu"/>
+    </item>
+    <item
+        android:id="@+id/Countries"
+        android:title="Countries">
+        <menu android:id="@+id/Countries_menu"/>
+    </item>
+</menu>

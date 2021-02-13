@@ -1,0 +1,2 @@
+rootProject.name = "news_aggregator_Bo_Y"
+include ':app'
